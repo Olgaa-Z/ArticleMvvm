@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282b33</color>
+    <color name="colorprimaryDark">#282b33</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="titleTextColor">#FF000000</color>
+    <color name="subTitleTextColor">#333233</color>
+    <color name="bgLineColor">#606470</color>
+    <color name="background">#dddddd</color>
+    <color name="card_color">#2e343d</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
